@@ -42,6 +42,20 @@ const MyProjects = () => {
                                     href="https://alexiats91.github.io/simple-messenger/">Simple messenger</a>.
                     </p>
                 </div>
+                <div>
+                    <h4>To Do List </h4>
+                    <p>
+                        Development of responsive React SPA using react, redux toolkit, react-redux.
+                    </p>
+                    <p>
+                        GitHub: <a className={styles.link} target="_blank" rel="noreferrer"
+                                   href="https://github.com/Alexiats91/ToDoList">ToDoList</a>.
+                    </p>
+                    <p>
+                        GitPage: <a className={styles.link} target="_blank" rel="noreferrer"
+                                    href="https://alexiats91.github.io/ToDoList/">ToDoList</a>.
+                    </p>
+                </div>
             </div>
         </div>
     );
