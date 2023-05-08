@@ -1,0 +1,13 @@
+.container {
+    width: 100%;
+    background-color: deepskyblue;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    border-radius: 7px;
+    margin: 15px 0 10px;
+}
+.text {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}

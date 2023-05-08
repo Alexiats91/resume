@@ -1,0 +1,13 @@
+.educationList {
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+}
+.itemTitle {
+    color: white;
+    align-self: center;
+}
+.itemText {
+    padding-bottom: 5px;
+    text-align: justify;
+}

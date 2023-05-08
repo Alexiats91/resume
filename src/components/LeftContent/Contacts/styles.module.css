@@ -1,0 +1,18 @@
+.contactsList {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+.contactsItem {
+    display: flex;
+    column-gap: 15px;
+}
+.svg {
+    flex: 1;
+    min-width: 24px;
+    min-height: 24px;
+    align-self: flex-start;
+}
+.p {
+    flex: 13;
+}

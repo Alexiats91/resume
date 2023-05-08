@@ -1,0 +1,7 @@
+.skillsList {
+    display: flex;
+    flex-direction: column;
+    padding-left: 5px;
+    list-style: square inside;
+    row-gap: 5px;
+}

@@ -1,0 +1,12 @@
+.projectsList {
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+}
+.link {
+    color: black;
+}
+.link:hover {
+     color: white;
+     text-shadow: 0 0 5px deepskyblue;
+ }

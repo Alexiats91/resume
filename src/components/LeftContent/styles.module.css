@@ -1,0 +1,14 @@
+.leftContent {
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+}
+.userPhoto {
+    align-self: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: darkgray;
+    object-fit: cover;
+    box-shadow: 0 0 10px white;
+}
