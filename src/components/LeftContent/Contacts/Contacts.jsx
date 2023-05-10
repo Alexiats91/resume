@@ -28,7 +28,7 @@ const Contacts = () => {
                         </path>
                     </svg>
                     <div className={styles.p}>
-                        <p>+380637122009</p>
+                        <p>+380955532559</p>
                         <p>+48726704823</p>
                     </div>
                 </div>
