@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/resume/static/css/main.69fc28d0.css",
-    "main.js": "/resume/static/js/main.0a4add33.js",
+    "main.js": "/resume/static/js/main.c3fd482a.js",
     "static/js/787.dc9ee2bf.chunk.js": "/resume/static/js/787.dc9ee2bf.chunk.js",
     "static/media/Oleksandr Yatsenko.pdf": "/resume/static/media/Oleksandr Yatsenko.3b5a9fc7ac841cc9f70c.pdf",
     "static/media/JavaScriptStarter.pdf": "/resume/static/media/JavaScriptStarter.afcdccc57c10b7190624.pdf",
@@ -9,11 +9,11 @@
     "static/media/20230115_162529.jpg": "/resume/static/media/20230115_162529.5f4d0a5f255a4af108db.jpg",
     "index.html": "/resume/index.html",
     "main.69fc28d0.css.map": "/resume/static/css/main.69fc28d0.css.map",
-    "main.0a4add33.js.map": "/resume/static/js/main.0a4add33.js.map",
+    "main.c3fd482a.js.map": "/resume/static/js/main.c3fd482a.js.map",
     "787.dc9ee2bf.chunk.js.map": "/resume/static/js/787.dc9ee2bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69fc28d0.css",
-    "static/js/main.0a4add33.js"
+    "static/js/main.c3fd482a.js"
   ]
 }
