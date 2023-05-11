@@ -28,8 +28,16 @@ const Contacts = () => {
                         </path>
                     </svg>
                     <div className={styles.p}>
-                        <p>+380955532559</p>
-                        <p>+48726704823</p>
+                        <p>
+                            <a href="tel:+380955532559">
+                                +38 (095) 553 25 59
+                            </a>
+                        </p>
+                        <p>
+                            <a href="tel:+48726704823">
+                                +48 726 704 823
+                            </a>
+                        </p>
                     </div>
                 </div>
                 <div className={styles.contactsItem}>
